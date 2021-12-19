@@ -67,6 +67,15 @@ q(chr) -> macro mode, end with q
 @(chr) -> replay saved macro
 @@     -> rerun last macro
 
+below  -> creates new window and places below of the active window
+top    -> creates new window and places top of the active window
+ctrl w - -> shrinks the selected window
+ctrl w + -> expands the selected window
+
+tabnew -> creates new tab
+tabnext-> switches to the next tab
+tabprevious -> switches to the previous tab
+
 Examples:
 
 d3w    -> delete 3 words
